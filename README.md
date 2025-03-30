@@ -76,5 +76,5 @@ Po zakończeniu zadania, powinieneś zobaczyć:
 
 #
 
-![alt text](https://i.imgur.com/JPMUFCz.png)
+![alt text](https://i.imgur.com/NaewFIA.png)
 
